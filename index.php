@@ -337,13 +337,13 @@ if(isset($_POST['submit'])){ // Changed to check if the form has been submitted
             <div class="footlinks">
                 <h4>Connect</h4>
                 <div class="social">
-                    <a href="https://www.facebook.com/mohd.rahil.blogger" target="_blank"><i class='bx bxl-facebook'></i></a>
-                    <a href="https://www.instagram.com/mohdrahil101" target="_blank"><i class='bx bxl-instagram' ></i></a>
-                    <a href="https://www.twitter.com/mohdrahil101" target="_blank"><i class='bx bxl-twitter' ></i></a>
-                    <a href="https://www.linkedin.com/in/mohdrahil101" target="_blank"><i class='bx bxl-linkedin' ></i></a>
-                    <a href="https://www.youtube.com/techdollarz" target="_blank"><i class='bx bxl-youtube' ></i></a>
-                    <a href="https://www.mohdrahil.wordpress.com" target="_blank"><i class='bx bxl-wordpress' ></i></a>
-                    <a href="https://www.github.com/mohdrahil101" target="_blank"><i class='bx bxl-github'></i></a>
+                    <a href="#" target="_blank"><i class='bx bxl-facebook'></i></a>
+                    <a href="#" target="_blank"><i class='bx bxl-instagram' ></i></a>
+                    <a href="#" target="_blank"><i class='bx bxl-twitter' ></i></a>
+                    <a href="#" target="_blank"><i class='bx bxl-linkedin' ></i></a>
+                    <a href="#" target="_blank"><i class='bx bxl-youtube' ></i></a>
+                    <a href="#" target="_blank"><i class='bx bxl-wordpress' ></i></a>
+                    <a href="#" target="_blank"><i class='bx bxl-github'></i></a>
                 </div>
             </div>
             
@@ -351,7 +351,7 @@ if(isset($_POST['submit'])){ // Changed to check if the form has been submitted
     </div>
 
     <div class="end">
-        <p>Copyright © 2022 Firstflight Travels All Rights Reserved.<br>Website developed by: Mohd. Rahil</p>
+        <p>Copyright © 2022 Firstflight Travels All Rights Reserved.<br>Website developed by: Sakhsi Nagare</p>
     </div>
 </section>
 
